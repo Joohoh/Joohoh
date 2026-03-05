@@ -9,8 +9,8 @@
 - 🌎 Estudando **inglês** e **espanhol** para evoluir na área de tecnologia
 - 🍰 Hobby: cozinhar e testar receitas diferentes
 
-★★★ Minha Toolbox
--  🛠️ ![My Skills](https://skillicons.dev/icons?i=html,css,js,git,github,vscode,python)
+★★★ Minha Toolbox (Em progresso...)
+- ![My Skills](https://skillicons.dev/icons?i=html,css,js,git,github,vscode,python)
 
 ★★★ Atualmente
 - 👩‍💻 Melhorando minhas habilidades em programação
