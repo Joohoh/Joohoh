@@ -1,13 +1,14 @@
 <div align="center">
-<h3>✨ Olá, eu sou a Jordana</h3>
+<h3>✨ Olá, eu sou a Jordana ✨</h3>
 <p align="center">
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </p>
 Estudante de TI • Explorando programação • Aprendendo um pouco a cada dia
 </div>
-
 </br>
-</br>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,git,github,python" height="35"/>
+</p>
 </br>
 
 ★★★ Sobre mim
@@ -16,9 +17,6 @@ Estudante de TI • Explorando programação • Aprendendo um pouco a cada dia
 - 🎮 Gosto de jogar games variados
 - 🌎 Estudando **inglês** e **espanhol** para evoluir na área de tecnologia
 - 🍰 Hobby: cozinhar e testar receitas diferentes
-
-★★★ Minha Toolbox (Em progresso...)
-- 🛠️ HTML • CSS • JavaScript • Git • GitHub • Python
 
 ★★★ Atualmente
 - 👩‍💻 Melhorando minhas habilidades em programação
@@ -42,3 +40,7 @@ Estudante de TI • Explorando programação • Aprendendo um pouco a cada dia
 <div align="center">
 🖋 “O risco não está na IA pensar como humanos, mas em nós deixarmos de pensar por conta própria” – Gary Marcus
 </div>
+
+</br>
+
+
