@@ -1,7 +1,9 @@
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:9ca3af,100:6b7280&height=120&section=header&text=Jordana%20Dev&fontSize=35&fontColor=ffffff"/>
+<h1 align="center">✨ Olá, eu sou a Jordana</h1>
+<p align="center">
+Estudante de TI • Explorando programação • Aprendendo um pouco a cada dia
+</p>
 
-
-↪ “O risco não está na IA pensar como humanos, mas em nós deixarmos de pensar por conta própria” – Gary Marcus
+🖋 “O risco não está na IA pensar como humanos, mas em nós deixarmos de pensar por conta própria” – Gary Marcus
 
 ★★★ Sobre mim
 - 📈 Em busca de me tornar uma profissional sólida na área de **TI**
