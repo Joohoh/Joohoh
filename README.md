@@ -1,16 +1,14 @@
 <div align="center">
-
-✨ **Olá, eu sou a Jordana**
-
-<img src="https://i.imgur.com/dBaSKWF.gif" width="500">
-
+<h3>✨ Olá, eu sou a Jordana</h3>
+<p align="center">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</p>
 Estudante de TI • Explorando programação • Aprendendo um pouco a cada dia
-
 </div>
 
-
-
-🖋 “O risco não está na IA pensar como humanos, mas em nós deixarmos de pensar por conta própria” – Gary Marcus
+</br>
+</br>
+</br>
 
 ★★★ Sobre mim
 - 📈 Em busca de me tornar uma profissional sólida na área de **TI**
@@ -36,3 +34,11 @@ Estudante de TI • Explorando programação • Aprendendo um pouco a cada dia
 
 **Como me encontrar:**
 - 📫 [LinkedIn](www.linkedin.com/in/jordana-martins-benunes) | [E-mail](martins.benunes1@gmail.com)
+
+<p align="center">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</p>
+
+<div align="center">
+🖋 “O risco não está na IA pensar como humanos, mas em nós deixarmos de pensar por conta própria” – Gary Marcus
+</div>
