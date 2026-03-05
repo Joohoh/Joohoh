@@ -26,7 +26,7 @@
 - 🍝 Fazendo comidinhas deliciosas ou nem sempre deliciosas
 
 ★★★ 📊 Estatísticas do GitHub (Pequeninos avanços...)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Joohoh&show_icons=true&theme=dracula&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Joohoh&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
 
 **Como me encontrar:**
 - 📫 [LinkedIn](www.linkedin.com/in/jordana-martins-benunes) | [E-mail](martins.benunes1@gmail.com)
