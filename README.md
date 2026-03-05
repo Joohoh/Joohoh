@@ -43,4 +43,7 @@ Estudante de TI • Explorando programação • Aprendendo um pouco a cada dia
 
 </br>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Joohoh/Joohoh/output/github-contribution-grid-snake.svg">
+</p>
 
