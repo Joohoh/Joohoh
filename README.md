@@ -22,7 +22,7 @@ Estudante de TI • Explorando programação • Aprendendo um pouco a cada dia
 - 👩‍💻 Melhorando minhas habilidades em programação
 - ⚙️ Criando projetos para aprender na prática
 - 🔍 Explorando novas tecnologias
-- 👀 Vendo bastante conteúdo da área **Tec**
+- 👀 Acompanhando conteúdos da área **Tec**
 
 ★★★ Fora do código
 - 👾 Explorando mundos quadradinhos 
