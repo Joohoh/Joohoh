@@ -31,7 +31,7 @@ Estudante de TI • Explorando programação • Aprendendo um pouco a cada dia
 - 🍝 Fazendo comidinhas deliciosas ou nem sempre deliciosas
 
 **Como me encontrar:**
-- 📫 [LinkedIn](www.linkedin.com/in/jordana-martins-benunes) | [E-mail](martins.benunes1@gmail.com)
+- 📫 [LinkedIn](https://www.linkedin.com/in/jordana-martins-benunes) | [E-mail](mailto:martins.benunes1@gmail.com)
 
 <p align="center">
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
