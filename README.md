@@ -30,8 +30,7 @@ Estudante de TI • Explorando programação • Aprendendo um pouco a cada dia
 - 📚 Lendo histórias divertidas
 - 🍝 Fazendo comidinhas deliciosas ou nem sempre deliciosas
 
-**Como me encontrar:**
-- 📫 [LinkedIn](https://www.linkedin.com/in/jordana-martins-benunes) | [E-mail](mailto:martins.benunes1@gmail.com)
+</br>
 
 <p align="center">
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
@@ -41,7 +40,6 @@ Estudante de TI • Explorando programação • Aprendendo um pouco a cada dia
 🖋 “O risco não está na IA pensar como humanos, mas em nós deixarmos de pensar por conta própria” – Gary Marcus
 </div>
 
-</br>
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Joohoh/Joohoh/blob/output/github-contribution-grid-snake-dark.svg">
