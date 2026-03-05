@@ -1,4 +1,5 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3500&pause=1000&color=C0C0C0&center=true&vCenter=true&width=600&lines=Olá,+eu+sou+a+Jordana;Estudante+de+TI;Aprendendo+programação;Bem-vindo+ao+meu+GitHub)
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:9ca3af,100:6b7280&height=120&section=header&text=Jordana%20Dev&fontSize=35&fontColor=ffffff"/>
+
 
 ↪ “O risco não está na IA pensar como humanos, mas em nós deixarmos de pensar por conta própria” – Gary Marcus
 
