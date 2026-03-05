@@ -1,14 +1,13 @@
-<p align="center">
-✨ <b>Olá, eu sou a Jordana</b>
-</p>
+<div align="center">
 
-<p align="center">
+✨ **Olá, eu sou a Jordana**
+
 <img src="https://i.imgur.com/dBaSKWF.gif" width="500">
-</p>
 
-<p align="center">
 Estudante de TI • Explorando programação • Aprendendo um pouco a cada dia
-</p>
+
+</div>
+
 
 
 🖋 “O risco não está na IA pensar como humanos, mas em nós deixarmos de pensar por conta própria” – Gary Marcus
