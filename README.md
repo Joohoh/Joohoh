@@ -16,7 +16,6 @@ Estudante de TI • Explorando programação • Aprendendo um pouco a cada dia
 - 📖 Atualmente estudando: **Análise e Desenvolvimento de Sistemas** e **Sistemas de Internet**
 - 🎮 Gosto de jogar games variados
 - 🌎 Estudando **inglês** e **espanhol** para evoluir na área de tecnologia
-- 🍰 Hobby: cozinhar e testar receitas diferentes
 
 ★★★ Atualmente
 - 👩‍💻 Melhorando minhas habilidades em programação
