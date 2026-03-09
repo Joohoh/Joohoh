@@ -13,7 +13,7 @@ Estudante de TI • Explorando programação • Aprendendo um pouco a cada dia
 
 ★★★ Sobre mim
 - 📈 Em busca de me tornar uma profissional sólida na área de **TI**
-- 📖 Atualmente estudando: **Análise e Desenvolvimento de Sistemas** e **Sistemas de Internet**
+- 📖 Atualmente estudando: **Análise e Desenvolvimento de Sistemas** e **Sistemas para Internet**
 - 🎮 Gosto de jogar games variados
 - 🌎 Estudando **inglês** e **espanhol** para evoluir na área de tecnologia
 
