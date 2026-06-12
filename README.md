@@ -9,27 +9,6 @@ Estudante de TI • Explorando programação • Aprendendo um pouco a cada dia
 <p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,git,github,python" height="35"/>
 </p>
-</br>
-
-★★★ Sobre mim
-- 📈 Em busca de me tornar uma profissional sólida na área de **TI**
-- 📖 Atualmente estudando: **Análise e Desenvolvimento de Sistemas** e **Sistemas para Internet**
-- 🎮 Gosto de jogar games variados
-- 🌎 Estudando **inglês** e **espanhol** para evoluir na área de tecnologia
-
-★★★ Atualmente
-- 👩‍💻 Melhorando minhas habilidades em programação
-- ⚙️ Criando projetos para aprender na prática
-- 🔍 Explorando novas tecnologias
-- 👀 Acompanhando conteúdos da área **Tec**
-
-★★★ Fora do código
-- 👾 Explorando mundos quadradinhos 
-- 🎞️ Assistindo obras de qualidade
-- 📚 Lendo histórias divertidas
-- 🍝 Fazendo comidinhas deliciosas ou nem sempre deliciosas
-
-</br>
 
 <p align="center">
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
