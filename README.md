@@ -1,8 +1,6 @@
 <div align="center">
 <h3>✨ Olá, eu sou a Jordana ✨</h3>
-<p align="center">
-  <img src="https://i.imgur.com/uR6Q1g8.png" width="100%" height="1">
-</p>
+</br>
 Estudante de TI • Explorando programação • Aprendendo um pouco a cada dia
 </div>
 </br>
